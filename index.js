@@ -19,3 +19,4 @@ app
     res.send("hello world");
   })
   .listen(3000);
+  console.log(db);
